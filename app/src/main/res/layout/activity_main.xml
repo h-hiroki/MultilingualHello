@@ -16,7 +16,6 @@
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
         android:gravity="center_horizontal"
-        android:text="@string/good_morning_text"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
